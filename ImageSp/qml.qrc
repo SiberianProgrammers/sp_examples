@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Root.qml</file>
+        <file>avatar.jpg</file>
+        <file>ContactDelegate.qml</file>
+        <file>avatar2.jpg</file>
+        <file>Birthday.png</file>
+    </qresource>
+</RCC>

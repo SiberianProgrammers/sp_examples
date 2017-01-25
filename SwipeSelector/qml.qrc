@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Root.qml</file>
+        <file>Card.qml</file>
+    </qresource>
+</RCC>

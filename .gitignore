@@ -1,0 +1,5 @@
+*.user
+*.autosave
+*.properties
+*.properties~
+Programmer.pri
