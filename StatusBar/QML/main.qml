@@ -14,7 +14,7 @@ Item {
     Image {
         source: "qrc:/images/habralogo.png"
         width: 0.8*parent.width
+        height: width
         anchors.centerIn: parent
-        fillMode: Image.PreserveAspectFit
     }
 }
